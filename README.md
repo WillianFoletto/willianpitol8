@@ -5,7 +5,7 @@
 Tenho 19 anos e atualmente estou cursando Engenharia de Software.
 Meu foco principal é desenvolvimento backend, especialmente com Java. Caso queiram me seguir, estou disponibilizando meu perfil "[Dev em Dev](https://www.instagram.com/willianfolettop//)".
 
-### 🤖 Linguagens e Tecnologias
+ 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
