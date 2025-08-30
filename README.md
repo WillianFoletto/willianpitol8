@@ -21,4 +21,4 @@ Meu foco principal é desenvolvimento backend, especialmente com Java. Caso quei
 <br/>
 ### 🤖 Estatisticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=willianpitol8&show_icons=true&theme=dark&include_all_comits=true&locale=pt-br)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WillianPitol&show_icons=true&theme=dark&include_all_comits=true&locale=pt-br)
