@@ -5,8 +5,11 @@
 Tenho 19 anos e atualmente estou cursando **Engenharia de Software**.  
 Meu principal objetivo é me especializar em **desenvolvimento backend**, com foco em **Java**.  
 
-📌 Me siga no Instagram: [![Instagram](https://img.shields.io/badge/Instagram-%40willianfolettop-ff69b4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/willianfolettop/)  
-📈 Seguidores: **2.438**
+<p align="center">
+  <a href="https://www.instagram.com/willianfolettop/">
+    <img src="https://img.shields.io/badge/Instagram-2.438%20seguidores-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
 
 ---
 
