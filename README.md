@@ -1,27 +1,30 @@
 # 👩🏻‍💻 Willian Pitol
 
-**`Estudante de Engenharia de Software com foco em backend Java`**
+**`Estudante de Engenharia de Software | Foco em Backend Java`**
 
-Tenho 19 anos e atualmente estou cursando Engenharia de Software.
-Meu foco principal é desenvolvimento backend, especialmente com Java. Caso queiram me seguir, estou disponibilizando meu perfil "[Dev em Dev](https://www.instagram.com/willianfolettop//)".
+Tenho 19 anos e atualmente estou cursando **Engenharia de Software**.  
+Meu principal objetivo é me especializar em **desenvolvimento backend**, com foco em **Java**.  
 
- 🤖 Linguagens e Tecnologias
+📌 Me siga no Instagram: [Dev em Dev](https://www.instagram.com/willianfolettop/)
+
+---
+
+### 🚀 Linguagens e Tecnologias
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
+    alt="Java"
+    title="Java" 
+    width="50px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"
 />
 
+<br/><br/><br/>
 
-<br/>
-<br/>
-### 🤖 Estatisticas
+---
 
+### 📊 Estatísticas do GitHub
 
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=WillianFoletto&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WillianFoletto&show_icons=true&theme=dark&include_all_comits=true&locale=pt-br)
