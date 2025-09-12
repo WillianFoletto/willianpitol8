@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Main4 {
+public class FuncionarioSalario {
 
 	public static void main(String[] args) {
 		

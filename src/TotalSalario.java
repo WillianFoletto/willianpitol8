@@ -2,7 +2,7 @@ import java.util.Locale;
 import java.util.Scanner;
 
 
-public class Main9 {
+public class TotalSalario {
 
 	public static void main(String[] args) {
 		

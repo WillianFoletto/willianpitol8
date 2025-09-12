@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Main6 {
+public class MediaCombustivel {
 
 	public static void main(String[] args) {
 		

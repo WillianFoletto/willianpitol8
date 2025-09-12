@@ -1,19 +1,22 @@
 import java.util.Scanner;
 
-public class Main3 {
+public class DiferencaProdutos {
 
 	public static void main(String[] args) {
 		
 		Scanner sc = new Scanner(System.in);
 		
-		int A, B, SOMA;
+		int A, B, C, D;
+		int DIFERENCA;
 		
 		A = sc.nextInt();
 		B = sc.nextInt();
+		C = sc.nextInt();
+		D = sc.nextInt();
 		
-		SOMA = A + B;
+		DIFERENCA = A * B - C * D;
 		
-		System.out.println("SOMA = " + SOMA);
+		System.out.println("DIFERENCA = " + DIFERENCA);
 		
 		
 		

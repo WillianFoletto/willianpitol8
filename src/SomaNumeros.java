@@ -1,22 +1,19 @@
 import java.util.Scanner;
 
-public class Main2 {
+public class SomaNumeros {
 
 	public static void main(String[] args) {
 		
 		Scanner sc = new Scanner(System.in);
 		
-		int A, B, C, D;
-		int DIFERENCA;
+		int A, B, SOMA;
 		
 		A = sc.nextInt();
 		B = sc.nextInt();
-		C = sc.nextInt();
-		D = sc.nextInt();
 		
-		DIFERENCA = A * B - C * D;
+		SOMA = A + B;
 		
-		System.out.println("DIFERENCA = " + DIFERENCA);
+		System.out.println("SOMA = " + SOMA);
 		
 		
 		
